@@ -8,6 +8,9 @@ The objective is to analyze company financial performance, calculate key financi
 
 This project combines accounting knowledge with data analytics skills.
 
+## Dashboard Preview
+
+![Financial Analysis](images/financial_trend.png)
 ---
 
 ## Business Questions
