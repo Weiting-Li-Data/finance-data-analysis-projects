@@ -10,8 +10,14 @@ This project combines accounting knowledge with data analytics skills.
 
 ## Dashboard Preview
 
-![Financial Analysis](images/financial_trend.png)
----
+### Revenue Trend
+
+![Revenue Trend](images/revenue_trend.png)
+
+
+### Debt Ratio Trend
+
+![Debt Ratio Trend](images/debt_ratio_trend.png)
 
 ## Business Questions
 
