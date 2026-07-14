@@ -19,7 +19,8 @@ This project combines accounting knowledge with data analytics skills.
 
 ![Debt Ratio Trend](images/debt_ratio_trend.png)
 
-### Financial Report
+
+### Automated Report Preview
 
 ![PDF Report](images/report_preview.png)
 
