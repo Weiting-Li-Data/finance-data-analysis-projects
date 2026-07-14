@@ -1,224 +1,166 @@
-\# Financial Data Analysis Project
+# Financial Data Analysis Project
 
-
-
-\## Project Overview
-
-
+## Project Overview
 
 This project demonstrates financial data analysis using Python.
 
-
-
-The objective is to analyze company financial performance,
-
-calculate key financial indicators, visualize trends,
-
-and generate an automated financial report.
-
-
+The objective is to analyze company financial performance, calculate key financial indicators, visualize financial trends, and generate an automated financial report.
 
 This project combines accounting knowledge with data analytics skills.
 
+---
 
+## Business Questions
 
-\---
+This project aims to answer:
 
+- How is revenue changing over time?
+- Is profitability improving?
+- How efficient is cost control?
+- Is financial risk increasing or decreasing?
 
+---
 
-\## Business Questions
-
-
-
-\- How is revenue changing over time?
-
-\- Is profitability improving?
-
-\- How efficient is cost control?
-
-\- Is financial risk increasing or decreasing?
-
-
-
-\---
-
-
-
-\## Dataset
-
-
+## Dataset
 
 The dataset contains yearly financial information:
 
+- Revenue
+- Cost of Goods Sold (COGS)
+- Net Profit
+- Assets
+- Liabilities
 
+Analysis Period:
 
-\- Revenue
+**2021 - 2024**
 
-\- Cost of Goods Sold
+---
 
-\- Net Profit
+## Tools & Technologies
 
-\- Assets
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- ReportLab
+- Git & GitHub
 
-\- Liabilities
+---
 
+## Financial Analysis
 
+The project calculates key financial indicators.
 
-Period:
+### Profitability Analysis
 
+Indicators:
 
+- Gross Profit
+- Gross Margin
+- Net Profit Margin
 
-2021 - 2024
+### Financial Risk Analysis
 
+Indicator:
 
+- Debt Ratio
 
-\---
+### Growth Analysis
 
+Indicators:
 
+- Revenue Growth
+- Profit Growth
 
-\## Tools \& Technologies
+---
 
+## Data Visualization
 
+The project includes:
 
-\- Python
+- Revenue and profit trend analysis
+- Gross margin analysis
+- Debt ratio analysis
+- Financial performance charts
 
-\- Pandas
+---
 
-\- Matplotlib
-
-\- Jupyter Notebook
-
-\- ReportLab
-
-\- Git \& GitHub
-
-
-
-\---
-
-
-
-\## Financial Analysis
-
-
-
-Calculated indicators:
-
-
-
-\### Profitability
-
-
-
-\- Gross Profit
-
-\- Gross Margin
-
-\- Net Profit Margin
-
-
-
-\### Financial Risk
-
-
-
-\- Debt Ratio
-
-
-
-\### Growth Analysis
-
-
-
-\- Revenue Growth
-
-\- Profit Growth
-
-
-
-\---
-
-
-
-\## Key Findings
-
-
+## Key Findings
 
 Based on the analysis:
 
+### 1. Revenue Performance
 
+Revenue increased continuously from 2021 to 2024, showing stable business growth.
 
-1\. Revenue increased continuously from 2021 to 2024.
+### 2. Profitability
 
+Net profit improved significantly over the period.
 
+Profit margin increased, indicating improved operational efficiency.
 
-2\. Net profit improved significantly,
+### 3. Financial Risk
 
-indicating stronger profitability.
+Debt ratio decreased from 50% to approximately 39%, indicating lower financial leverage and improved financial stability.
 
+---
 
+## Automated Financial Reporting
 
-3\. Gross margin increased,
+The project automatically generates:
 
-showing improved operational efficiency.
+- Financial charts
+- Management summary
+- PDF financial analysis report
 
+The generated report provides business insights based on financial indicators.
 
+---
 
-4\. Debt ratio decreased,
-
-indicating lower financial leverage.
-
-
-
-\---
-
-
-
-\## Automated Reporting
-
-
-
-The project generates:
-
-
-
-\- Financial charts
-
-\- Management summary
-
-\- PDF financial analysis report
-
-
-
-\---
-
-
-
-\## Project Structure
-
-
-
+## Project Structure
 01-financial-analysis
 
-
-
 ├── data
-
+│ ├── financial_data.csv
+│ └── financial_report.xlsx
+│
 ├── notebooks
-
+│ └── financial_analysis.ipynb
+│
 ├── reports
-
+│ └── financial_analysis_report.pdf
+│
 └── README.md
 
+---
 
+## Skills Demonstrated
 
-\---
+This project demonstrates:
 
+- Financial statement analysis
+- Accounting knowledge application
+- Data cleaning and transformation
+- Financial KPI calculation
+- Data visualization
+- Automated reporting
+- Python analytics workflow
+- Version control with Git
 
+---
 
-\## Author
+## Future Improvements
 
+Possible improvements:
 
+- Add financial forecasting models
+- Build interactive dashboards using Power BI or Streamlit
+- Apply machine learning for financial prediction
+- Connect real company financial data APIs
+
+---
+
+## Author
 
 Finance + Data Analytics Portfolio Project
-
