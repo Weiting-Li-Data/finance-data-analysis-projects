@@ -133,20 +133,27 @@ The generated report provides business insights based on financial indicators.
 ---
 
 ## Project Structure
+
+
+```text
 01-financial-analysis
 
 ├── data
-│ ├── financial_data.csv
-│ └── financial_report.xlsx
+│   ├── financial_data.csv
+│   └── financial_report.xlsx
 │
 ├── notebooks
-│ └── financial_analysis.ipynb
+│   └── financial_analysis.ipynb
 │
 ├── reports
-│ └── financial_analysis_report.pdf
+│   └── financial_analysis_report.pdf
+│
+├── images
+│   ├── revenue_trend.png
+│   └── report_preview.png
 │
 └── README.md
-
+```
 ---
 
 ## Skills Demonstrated
