@@ -84,13 +84,43 @@ Calculated:
 
 ### 3. Financial Visualization
 
-Generated:
 
-- Revenue Trend
-- Gross Margin Trend
-- Net Income Trend
-- Free Cash Flow Trend
+Generated financial trend charts using Matplotlib:
 
+
+## Revenue Trend
+
+Shows Apple's revenue changes from 2021 to 2024.
+
+
+![Revenue Trend](images/revenue_trend.png)
+
+
+
+## Gross Margin Trend
+
+Shows Apple's profitability and pricing power changes.
+
+
+![Gross Margin](images/gross_margin.png)
+
+
+
+## Net Income Trend
+
+Shows changes in Apple's bottom-line performance.
+
+
+![Net Income](images/net_income.png)
+
+
+
+## Free Cash Flow Trend
+
+Shows Apple's ability to generate cash from operations.
+
+
+![Free Cash Flow](images/free_cash_flow.png)
 
 ### 4. Automated Insights
 
